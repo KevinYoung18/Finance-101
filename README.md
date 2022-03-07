@@ -17,6 +17,7 @@ However, a lot of people don't do these things, either because they are lazy, sc
 ## Credit and Debt
 
 
+
 ## Track Your Money
 What gets measured, gets managed. Track your spending, savings and investments. I recommend using [Mint](https://mint.intuit.com/overview.event), it can track spending, investments, bank accounts, credit score and more, you can also make budgets, view trends etc. It will also alert you with any unusual behavior.
 
@@ -32,25 +33,23 @@ Historically the S&P 500 has returned ~11% each year (7% increase in purchasing 
 
 Compound Interest Baby. Imagine you invest $100k. Now every year you make roughly $11k in free money. But it's even better than that. Because after the first year, now you have $111k invested. So making 11% of that the second year makes you $12.2k. and the year after that: $13.6k and so on and so forth.
 
-Doubling time is a good way to get a grasp of how wild compound interest is. Assuming a rate of increase of 11%, your money will double every 6.6 years. You have 100k invested, in 6.6 years you now have 200k; in 13.2 years, 400k; 19.8 years, 800k; 26.4 years 1.6 MILLION FUCKING dollars. and so on. Insane. So needless to say, you want to invest as MUCH as possible as SOON as possible, because your money will be worth exponentially more the longer it is invested.
+Doubling time is a good way to get a grasp of how wild compound interest is. Assuming a rate of increase of 11%, your money will double every 6.6 years. You have 100k invested, in 6.6 years you now have 200k; in 13.2 years, 400k; 19.8 years, 800k; 26.4 years 1.6 MILLION FUCKING dollars. and so on. Insane. So needless to say, you want to invest as MUCH as possible as SOON as possible, because your money will be worth exponentially more the longer it is invested. 
+
+![](images/compound-interest.jpg)
 
 You cannot afford to not invest. If you put $200 in your savings account every month, in 30 years you will have saved a whopping total of $72,000. If you have invested in the S&P 500 you will have about $400,000 at the end of 30 years.
-
-
-
-## Saving and Deferring Spending
-AKA Live like a bum now to live like a king later (or just retire sooner)
 
 ## Index Funds
 An index fund is a type of [mutual fund](#mutual-funds) or exchange-traded fund ([ETF](#etfs)) with a portfolio constructed to match or track the components of a financial market index, such as the Standard & Poor's 500 Index (S&P 500). This is different from a mutual fund which is managed by a human.
 
 
 ## Mutual funds
+
 ## ETFs
 An ETF (exchange-traded fund) is a collection of hundreds or thousands of stocks or bonds, managed by experts, in a single fund. It is bought as a single, whole share. For example: if one share costs $400 you cannot buy $200 worth of that ETF)
 
 ## S&P 500
-
+The S&P 500 is a stock market index tracking the performance of 500 largest companies listed on stock exchanges in the United States. It is one of the most commonly followed equity indices.
 
 ## Tax-Advantaged Investing
 ---
@@ -66,11 +65,27 @@ Roth IRA
 - Mega backdoor roth
 
 # Taxes
+## Tax Brackets
+The US uses a tax bracketing system as shown below.
+![](images/tax_brackets_capital_gains.png)
+
+However, there is a common misconception of how taxes work. Many people believe that once you are in an certain income range, you pay the corresponding percentage on your entire income. For example if you make over $84,200 you pay 24% on your total income. However, this is not the case. You actually on pay that percentage on the amount above the previous tax bracket.
+
+![](images/tax_brackets.jpg)
+
 ## Income Tax
+Income tax is the  tax you pay on earned income. 
 https://smartasset.com/taxes/california-paycheck-calculator
+
+
 ## Capital Gains Tax
+Capital gains tax is a tax you pay on the appreciation(increase in value) of an asset (e.g. stock, real estate, etc.) Capital gains tax is only paid when you sell the asset for a profit.
+
 ## Write-offs
-Capital loss
+Write offs reduce the amount of taxable income you have. Say you made $100,000 from your freelance photography business this year. Normally you would pay about $18,021 in taxes. However, purchases for your business can be written off. So let's say that you spent $40,000 on camera equipment and job-related travel. Now your taxable income would be $60,000 and the amount of taxes you would pay is $8,948.
+
+### Standard Deduction
+Everyone can deduct $12,550 from their income. So if you spent less than $12,550 on your business, it is better to just take the standard deduction.
 
 # Retiring Early
 Crossover point - This is when your passive income from investments equals your expenses. When you reach that point – DingDing! – you are Financially Independent.
@@ -79,3 +94,6 @@ Crossover point - This is when your passive income from investments equals your 
 ## Escrow
 ## Agents
 ### Redfin
+
+# Misc.
+## Churning
