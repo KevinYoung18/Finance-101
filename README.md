@@ -15,7 +15,27 @@ However, a lot of people don't do these things, either because they are lazy, sc
 - Like literal survival - food, water, shelter. These things cost money
 
 ## Credit and Debt
+Having good credit is free money. It cost no money, and will save you TONS of money in the long run.
 
+### Easy mode
+The simplest way to build credit is to set up auto-pay for a relatively small bill (e.g. Netflix) with your credit card and set up your credit card to automatically pay your credit card bill IN-FULL.
+
+![](images/five-major-factors-credit-score.png)
+
+### Payment History
+Your credit reports reveal your payment history, or whether you've consistently paid bills and other obligations on time. FICO says payment history accounts for 35% of your score.
+
+### Credit utilization
+The amount of your credit limit you use, expressed as a percentage, is called credit utilization. FICO says the amount of available credit you use counts for 30% of your score
+
+### Length of Credit
+The length of time you’ve had credit. Longer is better, so keep old accounts open unless there is a compelling reason to close them, such as an annual fee on a card you no longer use. You might be able to help yourself a little in this category by becoming an authorized user on an old account with an excellent payment record.
+
+### Credit Mix
+The kinds of credit you have. It's best to have a mix of installment accounts — those with a set number of equal payments, such as car payments or mortgages — and credit card accounts.
+
+### Credit Inquiries
+Number of recent "hard inquiries" on your account. Each application that causes a hard inquiry on your credit may take a few points off your score. However, these go away after a few month
 
 
 ## Track Your Money
